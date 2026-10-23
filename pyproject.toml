@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pmcp"
+version = "1.0.0"
+description = "Methods for comparing PM2.5 exposure with monetized mortality loss"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = ["numpy>=2.0", "pandas>=2.2", "scipy>=1.13", "matplotlib>=3.8"]
+
+[tool.setuptools]
+packages = ["pmcp"]

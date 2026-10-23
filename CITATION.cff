@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below and cite the accompanying paper."
+title: "PM2.5-Cost-Persistence"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Wang-Yi-Is-Coding/PM2.5-Cost-Persistence"
+authors:
+  - family-names: Wang
+    given-names: Yi
+    affiliation: "Shenzhen University"
+  - family-names: Xia
+    given-names: Jizhe
+    affiliation: "Shenzhen University"
+    email: xiajizhe@szu.edu.cn
